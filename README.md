@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lavínia Cerqueira
+# Hi, I'm Lavínia Cerqueira
 
 🤖 **Artificial Intelligence Student | Data Science & Machine Learning Enthusiast**  
 🇧🇷 Brazil | Universidade Federal de Sergipe (UFS)
