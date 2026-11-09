@@ -95,6 +95,7 @@ I'm building projects to apply what I learn throughout my academic journey.
     alt="Tecnologias"
   />
 </p>
+
 ---
 
 ## 🎯 Currently Focused On
