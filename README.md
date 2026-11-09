@@ -107,21 +107,5 @@ I'm building projects to apply what I learn throughout my academic journey.
 
 ---
 
-## 🎯 Currently Focused On
-
-- Improving my Python programming skills.
-- Learning Machine Learning and Data Science.
-- Exploring Generative AI and intelligent applications.
-- Developing practical projects for my portfolio.
-- Strengthening my knowledge of algorithms and problem-solving.
-
----
-
-## 💡 My Philosophy
-
-> "Learning is a continuous process. Every project is an opportunity to transform knowledge into something useful."
-
----
-
 ⭐ Thanks for visiting my profile!  
 🤝 Always open to learning, collaboration, and new opportunities.
