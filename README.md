@@ -27,24 +27,9 @@ I'm interested in building practical projects, learning new technologies, and co
     <img src="https://img.shields.io/badge/GitHub-laviniaacerqueiras-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
-
 ---
 
-## 🧠 Areas of Interest
-
-- 🤖 Artificial Intelligence
-- 📊 Data Science & Data Analytics
-- 🧠 Machine Learning & Deep Learning
-- 💬 Generative AI & Large Language Models
-- 🐍 Python Development
-- 🗄️ Database Management & SQL
-- 🔎 Knowledge Representation & Ontologies
-- 🔗 Semantic Web & Knowledge Graphs
-- ⚙️ Automation and Intelligent Systems
-
----
-
-## 🛠️ Tech Stack & Technologies I'm Learning
+## 🛠️ Tech Stack & Technologies
 
 ### Programming & Data
 
@@ -76,18 +61,6 @@ I'm interested in building practical projects, learning new technologies, and co
 ![Protégé](https://img.shields.io/badge/Prot%C3%A9g%C3%A9-ontology-blue?style=for-the-badge)
 ![OWL](https://img.shields.io/badge/OWL-Ontologies-purple?style=for-the-badge)
 ![SPARQL](https://img.shields.io/badge/SPARQL-Query-orange?style=for-the-badge)
-
----
-
-## 🚀 Featured Projects
-
-I'm building projects to apply what I learn throughout my academic journey.
-
-- 📊 **Data Analysis:** Exploring datasets, identifying patterns, and creating visualizations.
-- 🤖 **Machine Learning:** Developing predictive models and classification systems.
-- 💬 **AI Chatbots:** Exploring intelligent assistants using Generative AI and RAG.
-- 🎬 **Recommendation Systems:** Applying algorithms to create personalized recommendations.
-- 🧠 **Ontologies:** Exploring knowledge representation using OWL and Protégé.
 
 ---
 
