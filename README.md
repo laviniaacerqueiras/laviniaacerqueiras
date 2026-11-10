@@ -28,6 +28,8 @@ I'm interested in building practical projects, learning new technologies, and co
   </a>
 </p>
 
+---
+
 ## 🛠️ Tech Stack & Technologies
 
 ### Programming & Data
