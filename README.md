@@ -27,7 +27,6 @@ I'm interested in building practical projects, learning new technologies, and co
     <img src="https://img.shields.io/badge/GitHub-laviniaacerqueiras-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
----
 
 ## 🛠️ Tech Stack & Technologies
 
